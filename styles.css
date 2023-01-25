@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.card-group .card{
+    height: 70vh;
+    padding-right: 10px;
+}
